@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("/images/background1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 900;
+    position: absolute;
+    top:5vh;
+    left:3.5vh;
+}
+
+h2 {
+    width: 90vw;
+    color: #fff;
+}
+
+.icon {
+    position: absolute;
+    width: 3rem;
+    height: 3rem;
+    top: 4.5vh;
+    right:3.5vh;
+}
+
